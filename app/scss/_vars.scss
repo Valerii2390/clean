@@ -1,0 +1,26 @@
+$yel: #f4b01e;
+$bld: #020d18;
+$bl: #0a1521;
+$bg: #021522;
+$red: #fe0f20;
+$ora: #df5f37;
+$bll: #37a3df;
+$text: #697CA6;
+$padding-vertical-xs: 20px;
+$padding-vertical-sm: 60px;
+$padding-vertical: 120px;
+$color-divider: 1px solid #D8E3FE;
+$transition: all 0.2s;
+@mixin f500 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+// @mixin f500 {
+//     font-family: 'Roboto', sans-serif;
+//     font-weight: 500;
+// }
+@mixin f700 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
